@@ -1,0 +1,14 @@
+body {
+    background: black;
+}
+
+div {
+    color: white;
+}
+
+#main-container {
+    width: auto;
+    height: auto;
+    margin: auto;
+    text-align: center;
+}
